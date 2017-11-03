@@ -241,6 +241,10 @@ class Focus extends Component {
                     </TableBody>
                 </Table>
 
+                <h2>Feedback</h2>
+                <p>Please tell us whether you like our tool, or what we may improve.</p>
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSckc_8q1arzS9OIdepagBCztvKOdvQq2loRD95XrzmSpvo3Kg/viewform?embedded=true" width="760" height="500" frameBorder="0" marginHeight="0" marginWidth="0">Bezig met laden...</iframe>
+
             </div>
 
         );
