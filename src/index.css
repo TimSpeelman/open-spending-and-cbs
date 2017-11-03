@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+p input, p select, p .selected-mun{
+    margin: 0 .5em;
+    border: 0;
+    width: auto;
+    outline: 0;
+    background: #ffedc7;
+    padding: .2em;
+    text-align:center;
+}
+
+p input:focus, p select:focus {
+    background: #ffd8a6;
+}
+
+.selected-mun .delete-icon {
+    cursor:pointer;
+    padding: 0 .1em;
+}
+
